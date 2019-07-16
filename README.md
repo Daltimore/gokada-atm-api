@@ -8,7 +8,7 @@ Please ensure Node Js and npm are installed
 
 ```
   1. Install Nodejs
-  2.  git clone https://github.com/akinmaurice/atm-api.git
+  2.  git clone https://github.com/Daltimore/gokada-atm-api
   2.  cd atm-api
   4.  npm install
   5.  npm run dev
