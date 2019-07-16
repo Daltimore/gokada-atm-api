@@ -16,7 +16,7 @@ Please ensure Node Js and npm are installed
 
 ```
 
-## Dependencies
+## Technology Stack
 
 ```
   1. Node JS
