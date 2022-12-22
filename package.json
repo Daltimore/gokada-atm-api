@@ -23,7 +23,7 @@
     "express-session": "^1.15.6",
     "file-stream-rotator": "^0.4.1",
     "helmet": "^3.18.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.14",
     "moment": "^2.24.0",
     "morgan": "^1.9.1",
