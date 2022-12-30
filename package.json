@@ -41,7 +41,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.9.1",
     "istanbul": "^0.4.5",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nodemon": "^1.18.9",
     "nyc": "^14.1.1",
     "rewire": "^4.0.1",
